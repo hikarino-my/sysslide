@@ -3,9 +3,10 @@
 *by KF68syz(システム局長補佐)*
 ---
 ![Logo](logo.JPG)
+
 10秒で作った適当なロゴマーク
 
-<p>意味は、「JavaScriptはJavaではない」</p>
+意味は、「JavaScriptはJavaではない」
 ---
 <div style="text-align: left;">
 この講習会の目的
