@@ -27,7 +27,7 @@
 上のコードをテキストエディタに打ち込み名前を「index.html」として保存する。  
 ブラウザで開く
 ---
-<div style="text-align: left;">
+<div>
 JavaScript文法目次
 </div>
 - 出力
@@ -39,15 +39,17 @@ JavaScript文法目次
 - function
 ---?code=console.js
 
-文字の出力
-コンソールパネルを開いて確認
-Macならoption+command+j
+文字の出力  
+コンソールパネルを開いて確認  
+Macならoption+command+j  
 windowsならF12キー
 ---?code=var.js
 <dl>
   <dt>変数</dt>
   <dd>データを保存する箱</dd>
 </dl>
+---?code=data.js
+データ形式一覧
 ---?code=test.js
 リポジトリ内の「test.js」を読み込んで表示してます
 
