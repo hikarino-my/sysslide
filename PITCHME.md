@@ -1,8 +1,10 @@
 システム局外講習会へようこそ!
+
 *by KF68syz(システム局長補佐)*
 ---
 ![Logo](logo.JPG)
 10秒で作った適当なロゴマーク
+
 意味は、「JavaScriptはJavaではない」
 ---
 <div style="text-align: left;">
@@ -12,7 +14,7 @@
 - JavaScriptで遊ぶ(第二回) |
 - Advanced Queryを書けるようになる(第三回) |
 ---
-準備
+#####準備
 <dl>
   <dt>テキストエディタ</dt>
   <dd>プログラムを書くのに必要</dd>
