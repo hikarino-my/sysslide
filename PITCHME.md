@@ -37,6 +37,10 @@ JavaScript文法目次
 - if文
 - forループ
 - function
+---?code=console.js
+
+文字の出力
+
 ---?code=test.js
 リポジトリ内の「test.js」を読み込んで表示してます
 
