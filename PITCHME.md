@@ -5,7 +5,9 @@
 10秒で作った適当なロゴマーク
 意味は、「JavaScriptはJavaではない」
 ---
-######この講習会の目的
+<div style="text-align: left;">
+この講習会の目的
+</div>
 - JavaScriptへの入門(第一回)
 - JavaScriptで遊ぶ(第二回) |
 - Advanced Queryを書けるようになる(第三回) |
