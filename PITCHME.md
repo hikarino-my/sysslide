@@ -66,6 +66,9 @@ windowsならF12キー
   <dt>四則演算</dt>
   <dd>基本的な電卓の演算はある</dd>
 </dl>
+---?code=if.js
+- 条件分岐
+
 ---?code=test.js
 リポジトリ内の「test.js」を読み込んで表示してます
 
