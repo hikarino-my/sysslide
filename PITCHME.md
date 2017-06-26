@@ -46,7 +46,7 @@ windowsならF12キー
 ---?code=var.js
 <dl>
   <dt>変数</dt>
-  <dd>データを保存する</dd>
+  <dd>データを保存する箱</dd>
 </dl>
 ---?code=test.js
 リポジトリ内の「test.js」を読み込んで表示してます
