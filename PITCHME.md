@@ -27,7 +27,9 @@
 上のコードをテキストエディタに打ち込み名前を「index.html」として保存する。  
 ブラウザで開く
 ---
-###JavaScript文法目次
+<div style="text-align: left;">
+JavaScript文法目次
+</div>
 - 出力
 - 変数
 - データ
