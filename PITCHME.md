@@ -40,7 +40,14 @@ JavaScript文法目次
 ---?code=console.js
 
 文字の出力
-
+コンソールパネルを開いて確認
+Macならoption+command+j
+windowsならF12キー
+---?code=var.js
+<dl>
+  <dt>変数</dt>
+  <dd>データを保存する</dd>
+</dl>
 ---?code=test.js
 リポジトリ内の「test.js」を読み込んで表示してます
 
