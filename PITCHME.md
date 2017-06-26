@@ -13,7 +13,7 @@
 </div>
 - JavaScriptへの入門(第一回)
 - JavaScriptで遊ぶ(第二回) |
-- Advanced Queryを書けるようになる(第三回) |
+- Advanced Queryを書けるようになる(第三回) |
 ---
 ###準備
 <dl>
@@ -24,6 +24,7 @@
 </dl>
 ---?code=first.html
 ##早速書いてみる
+うえのコードをテキスト
 ---?code=test.js
 リポジトリ内の「test.js」を読み込んで表示してます
 
