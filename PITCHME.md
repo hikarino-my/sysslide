@@ -5,7 +5,7 @@
 ![Logo](logo.JPG)
 10秒で作った適当なロゴマーク
 
-意味は、「JavaScriptはJavaではない」
+<p>意味は、「JavaScriptはJavaではない」</p>
 ---
 <div style="text-align: left;">
 この講習会の目的
@@ -14,7 +14,7 @@
 - JavaScriptで遊ぶ(第二回) |
 - Advanced Queryを書けるようになる(第三回) |
 ---
-#####準備
+###準備
 <dl>
   <dt>テキストエディタ</dt>
   <dd>プログラムを書くのに必要</dd>
